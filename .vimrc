@@ -43,6 +43,7 @@ set shiftwidth=2  " Tabs under smart indent
 set nocp incsearch
 set hlsearch
 set autoindent
+set number
 filetype indent on
 filetype plugin on
 set cindent
