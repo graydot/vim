@@ -57,3 +57,5 @@ set list
 " Visual
 set showmatch  " Show matching brackets.
 set mat=5  " Bracket blinking.
+set splitright
+set splitbelow

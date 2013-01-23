@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/shishir/Workspace/slideshare'
+let g:netrw_dirhist_2='/home/shishir/Workspace/slideshare/spec/javascripts/src/ssplayer'
+let g:netrw_dirhist_3='/home/shishir/Workspace/slideshare'
+let g:netrw_dirhist_4='/home/shishir/system/dotfiles'
+let g:netrw_dirhist_5='/home/shishir'
+let g:netrw_dirhist_6='/home/shishir/Workspace/slideshare'
